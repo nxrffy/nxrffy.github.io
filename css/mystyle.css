@@ -1,0 +1,49 @@
+.center {
+				text-align: center;
+			}
+			
+			.bjys {
+				background-color: #e8ebef;
+			}
+			
+			.wzbjys {
+				background-color: #ffffff;
+			}
+			
+			body {
+				color: #44454a;
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			h1 {
+				margin: 0px;
+			}
+			
+			.topbar {
+				display: block;
+				position: relative;
+				z-index: 22;
+				padding: 10px;
+				height: auto;
+				text-align: center;
+				font-size: ;
+				color: #fff;
+				line-height: 1;
+				background: #bf3337;
+				/*background: #bf3337;*/
+			}
+			
+			.yjjxbbj {
+				border-radius: 25px;
+				background: #fff;
+				padding: 0px;
+				width: auto;
+				height: auto;
+				margin: 50px;
+				padding: 25px;
+			}
+			
+			img {
+				width: 100%;
+			}
